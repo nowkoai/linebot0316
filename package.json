@@ -1,0 +1,16 @@
+{
+  "name": "myservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.4.0",
+    "serverless-s3-sync": "^1.17.3",
+    "uuid": "^8.3.2"
+  }
+}
