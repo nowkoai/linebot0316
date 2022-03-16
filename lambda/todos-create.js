@@ -18,7 +18,7 @@ const USER_ID = "xxxxxxxxxxxxxxxxxxxx"
 const ACCESS_TOKEN = "yyyyyyyyyyyyyyyyyyyy"
 
 // ★LINE開発コンソールを確認）ACCESS_SECRETを記述して、再度デプロイ（sls deploy）
-const SECRET = "7ea449689f5ff1773870d06170d73e47"
+const SECRET = "ZZZZZZZZZZZZZZZZZZZZZZZZ"
 
 /////////////////////////////////////////////////
 const line = require('@line/bot-sdk');
